@@ -1,0 +1,9 @@
+fastapi
+pydantic
+python-dotenv
+firebase-admin
+openai
+requests
+pytz
+uvicorn
+firebase-rest-api
